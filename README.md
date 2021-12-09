@@ -4,4 +4,4 @@
 
 ### I'm a web developer & designer based in New Delhi, India. I have a passion for web design and love to create websites for all devices.
 
-https://user-images.githubusercontent.com/66355946/145440245-d61c9a62-0790-4d4a-9652-2f0e726a23b7.mp4
+<img src="https://user-images.githubusercontent.com/66355946/145440471-9340017a-510a-464f-8f5c-4314fa5fb09e.gif" alt="Quote GIF" width="500px")
