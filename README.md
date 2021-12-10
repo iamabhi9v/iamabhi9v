@@ -5,6 +5,11 @@
 <!-- Heading -->
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23516BEB&size=40&vCenter=true&lines=Hey%2C+I+am+Abhinav" alt="abhinav sentence">
+<br>
+
+<!-- My Quote -->
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23516BEB&vCenter=true&lines=Life+has+this+funny+of+forcing;you+on+the+path+forward+anyway." alt="quote">
 
 <!-- Badges -->
 
@@ -24,7 +29,7 @@
 
 <!-- Technology Learned -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h2>
 
 <p align="center" >
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -63,28 +68,33 @@
 
 </div>
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<!-- Contribution Graph -->
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+My GitHub Stats<br><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=iamabhi9v&theme=redical">
 </h2>
 
 <br>
 
 <p align = "center">
-  <img  src = "https://wakatime.com/badge/github/iamabhi9v/livingthesocialife.svg">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+
+<!-- Top Languages Used -->
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhi9v&show_icons=true&theme=tokyonight">
+
+<!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iamabhi9v&show_icons=true&theme=tokyonight">
+
 </p>
+
+<!-- Streak Stats -->
 
 <p align = "center">
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=iamabhi9v&theme=dark&date_format=j%20M%5B%20Y%5D">
 </p>
 
-<p align = "center">
+<!-- Spotify Playlists -->
+
+<h2 align = "center">Spotify Playlist<br><br>
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=i32ls1si0hhzt5cyyocm2kwqk" alt="spotify">
-</p>
+</h2>
