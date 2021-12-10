@@ -24,6 +24,7 @@
   <strong>I'm a software developer currently living in New Delhi. I did my Bachelor of Technology in the field of Computer Science Engineering 🎓 from K. R. Mangalam University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development & Data Analysis.</strong>
 </p>  
 
+
 <!-- Languages Learned -->
 
 <h2 align="center"><em>Languages Learned <img src="images/laptop.gif" width="50"></em></h2>
@@ -143,6 +144,12 @@
 
 <p align = "center">
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=iamabhi9v&theme=dark&date_format=j%20M%5B%20Y%5D">
+</p>
+
+<!-- Wakatime -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamabhi9v&theme=tokyonight">
 </p>
 
 <!-- Social Icons -->
