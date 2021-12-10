@@ -122,6 +122,12 @@
 
 </p>
 
+<!-- My GIF -->
+
+<p align="center">
+<img src="images/abhinav.gif">
+</p>
+
 <!-- Contribution Graph -->
 
 <h2 align="center"><em>My GitHub Stats</em><br><br>
