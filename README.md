@@ -43,7 +43,7 @@
 
 <!-- Frameworks -->
 
-<h2 align="center"><em>Frameworks/Terminal Used</em></h2>
+<h2 align="center"><em>Frameworks/Terminals Used</em></h2>
 
 <p align="center">
 
@@ -97,7 +97,7 @@
 
 <!-- Web Browser -->
 
-<h2 align="center"><em>Web Browser Used</em></h2>
+<h2 align="center"><em>Web Browsers Used</em></h2>
 
 <p align="center">
 
