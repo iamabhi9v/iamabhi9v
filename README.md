@@ -125,7 +125,7 @@
 <!-- My GIF -->
 
 <p align="center">
-<img src="images/abhinav.gif">
+<img src="images/iamabhi9v.gif" width="32%">
 </p>
 
 <!-- Contribution Graph -->
