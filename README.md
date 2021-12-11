@@ -6,7 +6,7 @@
 
 <!-- My Quote -->
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23516BEB&vCenter=true&lines=Life+has+this+funny+of+forcing;you+on+the+path+forward+anyway." alt="quote">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23516BEB&vCenter=true&lines=Life+has+this+funny+way+of+forcing;you+on+the+path+forward+anyway." alt="quote">
 
 <!-- Badges -->
 
