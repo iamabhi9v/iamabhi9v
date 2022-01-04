@@ -13,7 +13,7 @@
 <p align="center">
 
  <img src="https://badges.pufler.dev/visits/iamabhi9v/iamabhi9v">
- <img src="https://badges.pufler.dev/repos/iamabhi9v">
+ <img src="https://badges.pufler.dev/repos/monthly/iamabhi9v">
  <img src="https://badges.pufler.dev/commits/monthly/iamabhi9v">
 
 </p>
