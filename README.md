@@ -27,7 +27,7 @@
 
 <!-- Languages Learned -->
 
-<h2 align="center"><em>Languages Learned <img src="images/laptop.gif" width="50"></em></h2>
+<h2 align="center"><em>Languages Learned</em></h2>
 
 <p align="center">
 
