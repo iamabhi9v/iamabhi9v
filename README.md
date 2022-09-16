@@ -8,14 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23516BEB&vCenter=true&lines=Life+has+this+funny+way+of+forcing;you+on+the+path+forward+anyway." alt="quote">
 
-<!-- Badges -->
-
-<p align="center">
-
- <img src="https://badges.pufler.dev/visits/iamabhi9v/iamabhi9v">
- <img src="https://badges.pufler.dev/repos/iamabhi9v">
- <img src="https://badges.pufler.dev/commits/monthly/iamabhi9v">
-
 </p>
 
 <!-- Introduction -->
@@ -150,12 +142,6 @@
 
 <p align = "center">
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=iamabhi9v&theme=dark&date_format=j%20M%5B%20Y%5D">
-</p>
-
-<!-- Wakatime -->
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamabhi9v&theme=tokyonight">
 </p>
 
 <!-- Social Icons -->
