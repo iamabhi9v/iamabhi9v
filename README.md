@@ -122,8 +122,8 @@
 
 <!-- Contribution Graph -->
 
-<h2 align="center"><em>My GitHub Stats</em><br><br>
-<img src="https://activity-graph.herokuapp.com/graph?username=iamabhi9v&theme=redical">
+<h2 align="center"><em>My GitHub Stats</em><br>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamabhi9v&theme=dracula" width="700" height="400"/>
 </h2>
 
 <br>
@@ -131,17 +131,17 @@
 <p align = "center">
 
 <!-- Top Languages Used -->
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhi9v&show_icons=true&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhi9v&show_icons=true&theme=dracula">
 
 <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iamabhi9v&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamabhi9v&show_icons=true&theme=dracula">
 
 </p>
 
 <!-- Streak Stats -->
 
 <p align = "center">
- <img  src="http://github-readme-streak-stats.herokuapp.com?user=iamabhi9v&theme=dark&date_format=j%20M%5B%20Y%5D">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=iamabhi9v&theme=dracula&date_format=j%20M%5B%20Y%5D">
 </p>
 
 <!-- Social Icons -->
