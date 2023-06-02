@@ -122,9 +122,9 @@
 
 <!-- Contribution Graph -->
 
-<h2 align="center"><em>My GitHub Stats</em><br>
+<!-- <h2 align="center"><em>My GitHub Stats</em><br>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamabhi9v&theme=dracula" width="700" height="400"/>
-</h2>
+</h2> -->
 
 <br>
 
