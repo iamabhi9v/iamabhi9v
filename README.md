@@ -102,18 +102,6 @@
 
 </p>
 
-<!-- My PC Specs -->
-
-<h2 align="center"><em>My Laptop Specification</em></h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/lenovo-LEGION_Y540-E2231A?style=for-the-badge&logo=lenovo&logoColor=white">
-<img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-<img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-
-</p>
-
 <!-- My GIF -->
 
 <p align="center">
