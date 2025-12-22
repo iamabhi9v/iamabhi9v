@@ -134,9 +134,9 @@ As a dedicated professional, I am committed to staying abreast of the latest ind
 
 <!-- Streak Stats -->
 
-<p align = "center">
+<!-- <p align = "center">
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=iamabhi9v&theme=dracula&date_format=j%20M%5B%20Y%5D">
-</p>
+</p> -->
 
 <!-- Social Icons -->
 
