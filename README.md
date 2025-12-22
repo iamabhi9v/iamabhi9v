@@ -13,7 +13,13 @@
 <!-- Introduction -->
 
 <p align="justify">
-  <strong>I'm a software developer currently living in New Delhi. I did my Bachelor of Technology in the field of Computer Science Engineering 🎓 from K. R. Mangalam University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development & Data Analysis.</strong>
+  <strong>I currently serve as a Team Leader at Campus 365, a leading SaaS platform dedicated to serving educational institutions. My role is underpinned by a strong commitment to continuous learning and a comprehensive skill set spanning various technologies and domains. I possess a deep enthusiasm for exploring and adopting cutting-edge technologies, which drives my focus on finding innovative, real-life solutions and ensures I remain at the forefront of the evolving technological landscape. In addition to my technical expertise, I am highly interested in guiding and mentoring new entrants into the field of software development, prioritizing the cultivation of an inclusive and collaborative learning environment.
+
+Core Specializations
+My specializations include Web Development, Mobile Development, and Project Management. I bring extensive experience and proficiency in crafting robust, scalable, and high-quality applications while concurrently overseeing project timelines, resource allocation, and stakeholder communication. My technical aptitude covers a broad spectrum of programming languages, frameworks, and tools, enabling me to effectively adapt to the distinct challenges of diverse projects. I excel whether I am creating dynamic and responsive web applications or efficiently coordinating development efforts to meet strategic goals.
+
+Commitment to Growth and Innovation
+As a dedicated professional, I am committed to staying abreast of the latest industry trends and best practices, ensuring my skill set is not only current but also forward-thinking and resilient. My ambition is to not only deliver excellence in my own projects but also to actively inspire and support colleagues in their journey toward becoming proficient developers.</strong>
 </p>  
 
 
