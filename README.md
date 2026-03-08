@@ -13,13 +13,7 @@
 <!-- Introduction -->
 
 <p align="justify">
-  <strong>I currently serve as a Team Leader at Campus 365, a leading SaaS platform dedicated to serving educational institutions. My role is underpinned by a strong commitment to continuous learning and a comprehensive skill set spanning various technologies and domains. I possess a deep enthusiasm for exploring and adopting cutting-edge technologies, which drives my focus on finding innovative, real-life solutions and ensures I remain at the forefront of the evolving technological landscape. In addition to my technical expertise, I am highly interested in guiding and mentoring new entrants into the field of software development, prioritizing the cultivation of an inclusive and collaborative learning environment.
-
-Core Specializations
-My specializations include Web Development, Mobile Development, and Project Management. I bring extensive experience and proficiency in crafting robust, scalable, and high-quality applications while concurrently overseeing project timelines, resource allocation, and stakeholder communication. My technical aptitude covers a broad spectrum of programming languages, frameworks, and tools, enabling me to effectively adapt to the distinct challenges of diverse projects. I excel whether I am creating dynamic and responsive web applications or efficiently coordinating development efforts to meet strategic goals.
-
-Commitment to Growth and Innovation
-As a dedicated professional, I am committed to staying abreast of the latest industry trends and best practices, ensuring my skill set is not only current but also forward-thinking and resilient. My ambition is to not only deliver excellence in my own projects but also to actively inspire and support colleagues in their journey toward becoming proficient developers.</strong>
+  <strong>I am a mobile application developer specializing in building cross platform applications for Android and iOS using React Native. I have a strong interest in creating scalable and user focused digital products that solve real world problems. I enjoy exploring new technologies and continuously improving my technical and problem solving skills. I collaborate effectively with cross functional teams to deliver reliable and high performance applications. I am passionate about learning, innovation, and contributing to meaningful technology driven solutions.</strong>
 </p>  
 
 
